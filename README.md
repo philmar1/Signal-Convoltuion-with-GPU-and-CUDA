@@ -1,6 +1,6 @@
 # Signal-Convoltuion-with-GPU-and-CUDA
 
-This is a current project that aims to build a GPU version of fitering signals and images. The programmation language is C and the whole code was written by myself. The image filtering part will be added soon. 
+This is a current project that aims to build a GPU version of fitering signals and images. The programming language is C and the whole code was written by myself. The image filtering part will be added soon. 
 
 In order to run the code, you must possess a GPU and have cuda installed. You'll also need gnuplot to display the graphs.
 
