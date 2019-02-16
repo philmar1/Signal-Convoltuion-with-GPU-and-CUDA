@@ -4,8 +4,8 @@ This is a current project that aims to build a GPU version of fitering signals a
 
 In order to run the code, you must possess a GPU and have cuda installed. You'll also need gnuplot to display the graphs.
 
-- The code filters a signal of the form (sin(2pi\*freq1\*i) + 0.5(sin(2pi\*freq1\*i) with either a Box filter or a Gaussian filter of support s using a symetry for the signals to deal with out of bounds
-- The length of the signal is 10^N
+- The code filters a sinusoidal signal of the form (sin(2pi\*freq1\*i) + 0.5(sin(2pi\*freq1\*i)) with either a Box filter or a Gaussian filter of support s using a symetry for the signals to deal with out of bounds.
+- The length of the input signal is 10^N
 - Filter is either Box or Gauss
 - Version is either CPU or GPU
 
